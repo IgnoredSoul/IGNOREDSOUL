@@ -1,5 +1,5 @@
 ## G'Day mate <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Not much to say other than im shit at coding. Call me IGNOREDSOUL or Yuh. My Twitter got sused so heres me new one <a href="https://twitter.com/YuhAgain target="_blank">Twitter</a>.
+Not much to say other than im shit at coding. Call me IGNOREDSOUL or Yuh. My Twitter got sused so heres me new one <a href="https://twitter.com/YuhAgain" target="_blank">Twitter</a>.
 
 ## Projects
 -GrimBot [priv]
