@@ -5,9 +5,6 @@ Not much to say other than im shit at coding. Call me IGNOREDSOUL or Yuh. My Twi
 -GrimBot [priv]
 
 
-![Awish-Senpai's github stats](https://github-readme-stats.vercel.app/api?username=Awish-Senpai&show_icons=true&theme=tokyonight)
-
-
 <!--
 **IgnoredSoul/IGNOREDSOUL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
