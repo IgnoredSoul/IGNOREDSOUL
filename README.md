@@ -1,7 +1,7 @@
 ## G'Day mate <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Not much to say other than im shit at coding. Call me IGNOREDSOUL or Yuh. My Twitter got sused so no twitter :)
 
-![IGNOREDSOUL github stats](https://github-readme-stats.vercel.app/api?username=IGNOREDSOUL&show_icons=true&theme=tokyonight)
+![Soul's github stats](https://github-readme-stats.vercel.app/api?username=IGNOREDSOUL&show_icons=true&theme=tokyonight)
 
 
 
