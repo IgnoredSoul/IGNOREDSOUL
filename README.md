@@ -1,27 +1,14 @@
 ## G'Day mate <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Not much to say other than im shit at coding. Call me IGNOREDSOUL or Yuh. My Twitter got sused so no twitter :)
+I'm Soul and this is my work. Don't get to impressed. It's most just shitty code for vrchat or my UNI work.
+<img align="right" width="100" height="100" src="https://cdn.discordapp.com/avatars/399982893394558989/a_5382cbe4c7cece91e34d56a8d29b5439.gif?size=128)">
 
-![Soul's github stats](https://github-readme-stats.vercel.app/api?username=IGNOREDSOUL&show_icons=true&theme=tokyonight)
+Feel free to steal shit. :D
+## STATS
+[![Discord Server](https://img.shields.io/badge/DISCORD-JOIN%20MY%20VRC%20DISCORD-purple?style=for-the-badge&logo=discord&logoWidth=16)](https://discord.com/invite/KctPNaNmfh)
+[![Visits](https://visitor-badge.laobi.icu/badge?page_id=ignoresoul)](https://github.com/IGNOREDSOUL)
+
+![Soul's github stats](https://github-readme-stats.vercel.app/api?username=IGNOREDSOUL&show_icons=true&theme=material-palenight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ignoredsoul&layout=compact&theme=material-palenight)
 
 
 
-
-
-
-
-
-
-<!--
-**IgnoredSoul/IGNOREDSOUL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
