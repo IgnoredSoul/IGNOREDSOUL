@@ -1,5 +1,5 @@
 ## G'Day mate <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm Soul and this is my work. It's most just shitty code, take a gander.
+I'm Soul and this is my work. It's mostly just shitty code, take a gander.
 <img align="right" width="100" height="100" src="https://cdn.discordapp.com/avatars/399982893394558989/a_f144e00a0483f9d08d2768774726a000.webp?size=128)">
 
 Feel free to steal shit.
