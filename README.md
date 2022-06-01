@@ -1,6 +1,6 @@
 <div align="center">
   
-# G'Day mate <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# G'Day mate
   Take a gander at my shitty work
   
   <img src="https://discord.c99.nl/widget/theme-1/399982893394558989.png">
