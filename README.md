@@ -5,8 +5,6 @@
   
   <img src="https://discord.c99.nl/widget/theme-1/399982893394558989.png">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IGNOREDSOUL&theme=dark&layout=compact)
-  
   ## Stupid badges
   [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
   [![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
