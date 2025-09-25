@@ -18,8 +18,8 @@
   ![](https://forthebadge.com/images/badges/ages-18.svg)
   
   ## I fuck with these languages and tools
-  ![My Languages](https://skillicons.dev/icons?i=js,cs,cpp,c,py,bash,nodejs,bootstrap,css,html,md,react,)
+  ![My Languages](https://skillicons.dev/icons?i=js,cs,py,bash,nodejs,md)
   
-  ![My Programs](https://skillicons.dev/icons?i=discord,git,github,ps,unity,unreal,vscode,visualstudio,vim)
+  ![My Programs](https://skillicons.dev/icons?i=discord,git,github,unity,vscode,visualstudio)
 
   </div>
